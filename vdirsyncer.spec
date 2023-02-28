@@ -11,6 +11,7 @@ BuildRequires:	python3
 BuildRequires:	python3-modules
 BuildRequires:	python3-setuptools_scm
 BuildRequires:	rpm-pythonprov
+BuildRequires:	rpmbuild(macros) >= 1.714
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
