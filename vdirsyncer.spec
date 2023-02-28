@@ -1,11 +1,11 @@
 Summary:	Synchronize calendars and contacts
 Name:		vdirsyncer
-Version:	0.18.0
-Release:	3
+Version:	0.19.1
+Release:	1
 License:	BSD
 Group:		Applications/System
 Source0:	https://github.com/pimutils/vdirsyncer/archive/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	eb98a5d740576284fb7f275157274de0
+# Source0-md5:	c0f923b6905593a7430e7f0996acb6be
 URL:		https://vdirsyncer.pimutils.org/
 BuildRequires:	python3
 BuildRequires:	python3-modules
